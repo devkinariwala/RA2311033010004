@@ -8,10 +8,10 @@ This project implements a **Vehicle Maintenance Scheduler Microservice** that se
 
 ## Features
 
-- 🔹 Logging Middleware Integration (external logging API)
-- 🔹 Optimized task selection using Dynamic Programming
-- 🔹 External API integration for depots and vehicles
-- 🔹 Clean modular backend structure
+- Logging Middleware Integration (external logging API)
+- Optimized task selection using Dynamic Programming
+- External API integration for depots and vehicles
+- Clean modular backend structure
 
 ---
 
@@ -50,11 +50,11 @@ GET /api/schedule
 
 ### API Response
 
-![API](screenshots/postman.png)
+![API](screenshots/api_response.png)
 
 ### Logs Output
 
-![Logs](screenshots/terminal.png)
+![Logs](screenshots/logs.png)
 
 ---
 
